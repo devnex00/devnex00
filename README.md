@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="63%" alt="Hi there, I'm Dev Lodhi. B.Tech AI/ML student learning Python."><img src="./assets/walker.gif" width="35%" alt="Animated anime character walking and waving">
+<img src="./hero.svg" width="63%" alt="Hi there, I'm Dev Lodhi. B.Tech AI/ML student learning Python."><img src="./walker.gif" width="35%" alt="Animated anime character walking and waving">
 
-<img src="./assets/about.svg" width="98%" alt="About me: starting from zero, in public">
+<img src="./about.svg" width="98%" alt="About me: starting from zero, in public">
 
-<img src="./assets/stack.svg" width="98%" alt="What I'm learning now, next and later">
+<img src="./stack.svg" width="98%" alt="What I'm learning now, next and later">
 
 <img src="./profile-3d-contrib/profile-night-view.svg" width="98%" alt="My 3D contribution graph">
 
 
-<img src="./assets/contact.svg" width="98%" alt="Let's build something together. @devnex00">
+<img src="./contact.svg" width="98%" alt="Let's build something together. @devnex00">
 
 [**GitHub**](https://github.com/devnex00)
 &nbsp;•&nbsp;
