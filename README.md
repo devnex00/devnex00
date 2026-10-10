@@ -6,9 +6,8 @@
 
 <img src="./assets/stack.svg" width="98%" alt="What I'm learning now, next and later">
 
-<!-- STEP 7: after the "profile-3d.yml" workflow has run once, delete this line and the closing arrow line to show your contribution city
 <img src="./profile-3d-contrib/profile-night-view.svg" width="98%" alt="My 3D contribution graph">
--->
+
 
 <img src="./assets/contact.svg" width="98%" alt="Let's build something together. @devnex00">
 
